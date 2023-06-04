@@ -9,9 +9,9 @@
 En este tutorial estamos aprendiendo las bases de markdown para hacer bonitos perfiles de github.
 
 
-# Uilizamos el character de gato para indicar los tipo de tìtulos. El nùmero de gatos indica el tamaño de la letra. desde H1 hasta H6
+### Uilizamos el character de gato para indicar los tipo de tìtulos. El nùmero de gatos indica el tamaño de la letra. desde H1 hasta H6
 
-# Utilizamos el siguiente código para insertar imágenes
+### Utilizamos el siguiente código para insertar imágenes
 
 ```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
@@ -19,7 +19,7 @@ En este tutorial estamos aprendiendo las bases de markdown para hacer bonitos pe
 
 
 
-# quien diría que usar tres acentos graves para indicar el inicio y final de una seccion de código.
+### Quien diría que usar tres acentos graves para indicar el inicio y final de una seccion de código.
 
 
 ```
